@@ -7,3 +7,5 @@ execute the code in the terminal with the following code: gcc -Isrc/include -Lsr
 
 To execute this file it is compulsory to have SDL2.
 We have provided the SDL2 extension in the file which is named SDL2.dll
+
+The Demo video we provided unfortunately does not have sound. While recording the video, there was an error in the mic input. So, we could only record the video of the game where a player is playing the game. 
